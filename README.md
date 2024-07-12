@@ -1,2 +1,2 @@
 
-## Build a basic version of Payments app 
+## A basic version of Payments app 
